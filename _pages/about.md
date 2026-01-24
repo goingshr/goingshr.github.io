@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 I'm currently a master from Nanjing University. My research interest forcus on Machine learning and Computer System.
-======
 
 Education
 ======
-**Nanjing University**, Master of Computer Science (2023 – 2026)  
-• Database, MLSys, advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
-**Soochow University**, Bachelor of Computer Science (2019 – 2023)  
-• AI Algorithm, advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
+- **Nanjing University**, Master of Computer Science (2023 – 2026)
+Database, MLSys, advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
+
+- **Soochow University**, Bachelor of Computer Science (2019 – 2023)  
+AI Algorithm, advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
 
 Work Experience
 ======
