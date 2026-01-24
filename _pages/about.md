@@ -24,6 +24,6 @@ I am a student now.
 
 Publication
 ======
-- [ICDE'25] ***Guoying Zhu***, Haipeng Dai, Kang Yuan, Qian Wang, Lida Chen, Zhenghong Luo, Meng Li, Rong Gu, Xizi Ni, Hua Fan, Dachao Fu, Wenchao Zhou. "Local-to-cloud Database Synchronization via Fine-grained Hybrid Compression". In Proceedings of the 41th IEEE International Conference on Data Engineering.
+- **[ICDE'25]** ***Guoying Zhu***, Haipeng Dai, Kang Yuan, Qian Wang, Lida Chen, Zhenghong Luo, Meng Li, Rong Gu, Xizi Ni, Hua Fan, Dachao Fu, Wenchao Zhou. "Local-to-cloud Database Synchronization via Fine-grained Hybrid Compression". In Proceedings of the 41th IEEE International Conference on Data Engineering.
 
 
