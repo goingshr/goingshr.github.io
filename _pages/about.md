@@ -26,6 +26,7 @@ I am a student now.
 
 Publication
 ======
+- **[ISCA'26]** ***Guoying Zhu***, Meng Li, Haipeng Dai, Xuechen Liu, Weijun Wang, Keran Li, Jun Xiao, Ligeng Chen, Wei Wang. "SMoE: An Algorithm-System Co-Design for Pushing MoE to the Edge via Expert Substitution". In Proceedings of the 53th International Symposium on Computer Architecture.
 - **[ICDE'25]** ***Guoying Zhu***, Haipeng Dai, Kang Yuan, Qian Wang, Lida Chen, Zhenghong Luo, Meng Li, Rong Gu, Xizi Ni, Hua Fan, Dachao Fu, Wenchao Zhou. "Local-to-cloud Database Synchronization via Fine-grained Hybrid Compression". In Proceedings of the 41th IEEE International Conference on Data Engineering.
 
 
