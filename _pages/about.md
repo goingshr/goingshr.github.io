@@ -22,7 +22,7 @@ AI Algorithm, advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
 
 Work Experience
 ======
-Honor Device Co., Ltd. Research Intern ***(2024 – 2025)***
+**Honor Device Co., Ltd.** Research Intern ***(2024 – 2025)***
 
 LLM inference on edge devices.
 
