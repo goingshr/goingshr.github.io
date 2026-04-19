@@ -9,22 +9,15 @@ redirect_from:
 
 I'm currently a master from Nanjing University. My research interest forcus on Machine learning and Computer System.
 
-Education
-======
+## Education
 
-**Nanjing University** Master of Computer Science ***(2023 - 2026)***
+**Nanjing University** | *Master of Computer Science* *(2023 – 2026)* > Database, MLSys. Advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
 
-Database, MLSys, advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
+**Soochow University** | *Bachelor of Computer Science* *(2019 – 2023)* > AI Algorithm. Advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
 
-**Soochow University** Bachelor of Computer Science ***(2019 - 2023)***
+## Work Experience
 
-AI Algorithm, advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
-
-Work Experience
-======
-**Honor Device Co., Ltd.** Research Intern ***(2024 – 2025)***
-
-LLM inference on edge devices.
+**Honor Device Co., Ltd.** | *Research Intern* *(July 2024 – Jan 2025)* > LLM inference on edge devices.
 
 Publication
 ======
