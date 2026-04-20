@@ -7,20 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master's student at Nanjing University. My research interests focus on Machine Learning and Computer Systems.
+I'm currently a master's student at Nanjing University. My research interests focus on Computer Systems.
 
 ## Education
 
 **Nanjing University** — *Master of Computer Science* (2023 – 2026) <br>
-Database, MLSys. Advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
+Advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
 
 **Soochow University** — *Bachelor of Computer Science* (2019 – 2023) <br>
-Machine Learning Algorithm. Advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
+Advised by [Prof. Wei Chen](https://web.suda.edu.cn/robertchen/).
 
 ## Work Experience
 
 **Honor Device Co., Ltd.** — *Research Intern* (July 2024 – Jan 2025) <br>
-LLM inference on edge devices.
 
 ## Publication
 
