@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master's student at Nanjing University. My research interests focus on Computer Systems.
+I'm currently a master's student at Nanjing University. Starting Fall 2026, I will pursue my Ph.D. at UC Merced. My research interests focus on Computer Systems.
 
 ## Education
+
+**University of California, Merced** — *Ph.D. in Computer Science* (2026 Fall – Present) <br>
+Advised by [Prof. Dong Li](https://faculty.ucmerced.edu/dong-li/).
 
 **Nanjing University** — *Master of Computer Science* (2023 – 2026) <br>
 Advised by [Prof. Haipeng Dai](https://cs.nju.edu.cn/daihp/index.htm) and [Prof. Meng Li](https://njulimn.github.io/).
