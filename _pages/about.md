@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master's student at Nanjing University. Starting Fall 2026, I will pursue my Ph.D. at UC Merced. My research interests focus on Computer Systems.
+I'm currently a master's student at Nanjing University. Starting Fall 2026, I will pursue my Ph.D. at UC Merced. My research interests lie at the intersection of Computer Systems and Artificial Intelligence.
 
 ## Education
 
